@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+•	Built a real-time weather application that displays current weather for +200,000 cities.
+•	Integrated Openweathermap current weather API.
+•	Applied intuitive and visually appealing UI/UX using HTML, CSS, and JavaScript.
+
 
 ## Available Scripts
 
